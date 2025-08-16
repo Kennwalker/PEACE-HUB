@@ -1,7 +1,7 @@
 {
 "name": "PEACE-HUB",
-"description": "Javascript WhatsApp bot made by Peacemaker",
-"logo": "https://files.catbox.moe/5m0i6t.jpg",
+"description": "Javascript WhatsApp bot made by MOE",
+"logo": "https://i.postimg.cc/WbJnHzrq/IMG-4230.jpg",
 "keywords": ["PEACE-HUB"],
 "success_url": "/",
 
@@ -87,21 +87,21 @@
 "OWNER_NAME": {  
   "description": "Type Bot Owner Name.",  
   "required": true,  
-  "value": "Peacemaker"
+  "value": "Moe☠️"
 
 },
 
 "OWNER_NUMBER": {  
   "description": "put the owner number for bot.",  
   "required": true,  
-  "value": "254752818245"  
+  "value": "12136061765"  
 
 },   
 
 "BOT_NAME": {  
   "description": "Type here the bot name.",  
   "required": true,  
-  "value": "ᴘᴇᴀᴄᴇ ʜᴜʙ"  
+  "value": "MoE ʜᴜʙ"  
 
   },   
 
@@ -134,13 +134,13 @@
 "MENU_IMAGE_URL": {  
   "description": "add url for mention reply and menu if want.",  
   "required": true,  
-  "value": "https://files.catbox.moe/5m0i6t.jpg"  
+  "value": "https://i.postimg.cc/WbJnHzrq/IMG-4230.jpg"  
 },  
   
  "DESCRIPTION": {  
   "description": "add caption for menu and other",  
   "required": true,  
-  "value": "*> 🚀 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴘᴇᴀᴄᴇ ʜᴜʙ"  
+  "value": "*> 🚀 ᴘᴏᴡᴇʀᴇᴅ ʙʏ MoE ʜᴜʙ"  
 },  
 
   "DELETE_LINKS": {  
@@ -177,7 +177,7 @@
 "CUSTOM_REACT_EMOJIS": {  
   "description": "put here custom react react emojis.",  
   "required": false,  
-  "value": "💚,💙"  
+  "value": "☠️,💚,💙"  
 },   
   
 "ANTI_DEL_PATH": {  
